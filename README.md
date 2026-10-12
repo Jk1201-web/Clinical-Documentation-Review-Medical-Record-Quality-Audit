@@ -5,7 +5,6 @@
 **A Medical Data Analyst portfolio project:** extracting, validating, and coding key data from public sample clinical reports (oncology and hematology) using Microsoft Excel.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-15%20of%2045%20reports%20abstracted-orange)
 
 ## Project summary
